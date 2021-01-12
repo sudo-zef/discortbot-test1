@@ -24,7 +24,7 @@ client.on('message', gotMessage);
 
 function gotMessage(msg) {
     console.log(msg.content);
-    if (msg.channel.id == 'your channel id' && msg.content === 'Hi' || msg.channel.id == '797385334726983690' && msg.content === 'Hello') {
+    if (msg.channel.id == 'your channel id' && msg.content === 'Hi' || msg.channel.id == 'your channel id' && msg.content === 'Hello') {
         // msg.reply('Hello')
         const index = Math.floor(Math.random() * replies.length);
         msg.channel.send(replies[index]);
