@@ -40,4 +40,3 @@ If you want to use this project you need to install node make some changes.
 
 
 
-# discord-bot-test1
