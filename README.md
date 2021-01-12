@@ -19,7 +19,7 @@ If you want to use this project you need to install node make some changes.
 * Link for making application: https://discord.com/developers/applications
 * After you have made you application you need to go to the application and copy the client id.
 * After you have copied it you need to go to this link:  https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot
-* You need to paste your client id where it says "YOUR_CLIENT_ID". You need to delete this and paster youe client id.
+* You need to paste your client id where it says "YOUR_CLIENT_ID". You need to delete this and paster your client id.
 * It will take you to a website which will ask you to add your bot to a server.
 * Note: You must own the server or have manage server rights to add your bot to the server.
 * After adding your bot go to the this link: https://discord.com/developers/applications
